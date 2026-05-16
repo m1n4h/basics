@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/4week1/4week1.iml" filepath="$PROJECT_DIR$/4week1/4week1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Rectangle/Rectangle.iml" filepath="$PROJECT_DIR$/Rectangle/Rectangle.iml" />
-      <module fileurl="file://$PROJECT_DIR$/account/account.iml" filepath="$PROJECT_DIR$/account/account.iml" />
-      <module fileurl="file://$PROJECT_DIR$/basics.iml" filepath="$PROJECT_DIR$/basics.iml" />
-      <module fileurl="file://$PROJECT_DIR$/circle/circle.iml" filepath="$PROJECT_DIR$/circle/circle.iml" />
-      <module fileurl="file://$PROJECT_DIR$/person/person.iml" filepath="$PROJECT_DIR$/person/person.iml" />
-      <module fileurl="file://$PROJECT_DIR$/quiz/quiz.iml" filepath="$PROJECT_DIR$/quiz/quiz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/4week1/4week1.iml" filepath="$PROJECT_DIR$/src/4week1/4week1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Rectangle/Rectangle.iml" filepath="$PROJECT_DIR$/src/Rectangle/Rectangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/account/account.iml" filepath="$PROJECT_DIR$/src/account/account.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/circle/circle.iml" filepath="$PROJECT_DIR$/src/circle/circle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java.iml" filepath="$PROJECT_DIR$/java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/person/person.iml" filepath="$PROJECT_DIR$/src/person/person.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/quiz/quiz.iml" filepath="$PROJECT_DIR$/src/quiz/quiz.iml" />
     </modules>
   </component>
 </project>

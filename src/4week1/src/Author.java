@@ -22,4 +22,8 @@ public class Author {
     public int getAge(){
         return age;
     }
+
+    public String getName() {
+        return name;
+    }
 }
